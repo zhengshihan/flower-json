@@ -2,24 +2,73 @@
   "tickets": [
     {
       "id": "1",
-      "title": "Fix the footer links please",
-      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf. Nunc ocarina sagittis quis Majoras Mask. Nulla in metus arcu. Suspendisse potenti. In vel mauris varius, consectetur Zora ipsum eget, Master Sword porttitor urna. Fusce elementum urna elit, eget eleifend velit consectetur eget. Integer vel lobortis ipsum, vitae auctor Ocarina of Time. Donec sed urna dapibus, interdum magna a, eleifend magna. Curabitur tincidunt enim a neque volutpat. Phasellus auctor magna vel nunc pretium, ut volutpat justo tristique. Pellentesque cursus convallis mauris, in tempus enim tincidunt vitae.",
+      "title": "Need help with Math homework",
+      "body": "I'm having trouble understanding the concepts of calculus, especially related to derivatives and integrals. Can someone provide me with additional resources or explanations? Thank you!",
       "priority": "low",
-      "user_email": "mario@netninja.dev"
+      "user_email": "student1@example.com"
     },
     {
       "id": "2",
-      "title": "Add in a new stylesheet",
-      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf. Nunc ocarina sagittis quis Majoras Mask. Nulla in metus arcu. Suspendisse potenti. In vel mauris varius, consectetur Zora ipsum eget, Master Sword porttitor urna. Fusce elementum urna elit, eget eleifend velit consectetur eget. Integer vel lobortis ipsum, vitae auctor Ocarina of Time. Donec sed urna dapibus, interdum magna a, eleifend magna. Curabitur tincidunt enim a neque volutpat. Phasellus auctor magna vel nunc pretium, ut volutpat justo tristique. Pellentesque cursus convallis mauris, in tempus enim tincidunt vitae.",
+      "title": "Request for career counseling",
+      "body": "I'm a sophomore and I'm unsure about which major to choose. I would like to discuss career options and get advice on planning my future path. Any guidance would be appreciated.",
       "priority": "medium",
-      "user_email": "mario@netninja.dev"
+      "user_email": "student2@example.com"
     },
     {
       "id": "3",
-      "title": "Fix the footer links",
-      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf. Nunc ocarina sagittis quis Majoras Mask. Nulla in metus arcu. Suspendisse potenti. In vel mauris varius, consectetur Zora ipsum eget, Master Sword porttitor urna. Fusce elementum urna elit, eget eleifend velit consectetur eget. Integer vel lobortis ipsum, vitae auctor Ocarina of Time. Donec sed urna dapibus, interdum magna a, eleifend magna. Curabitur tincidunt enim a neque volutpat. Phasellus auctor magna vel nunc pretium, ut volutpat justo tristique. Pellentesque cursus convallis mauris, in tempus enim tincidunt vitae.",
+      "title": "Issue with registration process",
+      "body": "I'm encountering an error message when trying to register for courses online. It says my student ID is invalid, but I have verified it with the administration. Can someone assist me in resolving this issue?",
       "priority": "high",
-      "user_email": "peach@netninja.dev"
+      "user_email": "student3@example.com"
+    },
+    {
+      "id": "4",
+      "title": "Question about campus parking",
+      "body": "I'm a new student and I'm confused about the parking regulations on campus. Can someone clarify where students are allowed to park and if there are any permits required?",
+      "priority": "medium",
+      "user_email": "student4@example.com"
+    },
+    {
+      "id": "5",
+      "title": "Technical issue with library database",
+      "body": "I'm trying to access research articles for my assignment, but I'm encountering a technical error when using the library database. Is there someone who can help troubleshoot this issue?",
+      "priority": "high",
+      "user_email": "student5@example.com"
+    },
+    {
+      "id": "6",
+      "title": "Inquiry about study abroad programs",
+      "body": "I'm interested in studying abroad next semester and would like more information about the application process, available programs, and financial aid options. Can someone provide guidance?",
+      "priority": "medium",
+      "user_email": "student6@example.com"
+    },
+    {
+      "id": "7",
+      "title": "Problem with dormitory heating",
+      "body": "The heating in my dorm room is not working properly, and it's becoming uncomfortable especially during the colder months. How can I request maintenance to fix this issue?",
+      "priority": "high",
+      "user_email": "student7@example.com"
+    },
+    {
+      "id": "8",
+      "title": "Request for accessibility accommodations",
+      "body": "I require specific accommodations for accessibility purposes during exams and class activities. Whom should I contact to arrange these accommodations?",
+      "priority": "high",
+      "user_email": "student8@example.com"
+    },
+    {
+      "id": "9",
+      "title": "Query about student health services",
+      "body": "I'm feeling unwell and would like to schedule an appointment with the student health services. How can I book an appointment and what services are available?",
+      "priority": "low",
+      "user_email": "student9@example.com"
+    },
+    {
+      "id": "10",
+      "title": "Concern about cafeteria food options",
+      "body": "I have dietary restrictions and I'm concerned about the variety and quality of food options available in the cafeteria. Can someone provide information on special dietary accommodations?",
+      "priority": "medium",
+      "user_email": "student10@example.com"
     }
   ]
 }
